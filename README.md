@@ -41,6 +41,8 @@ Customer Payment Performance Dashboard
 🎯 Focus
 Finance & Data Analytics | Data Cleaning | Business Insights | Actionable Answers
 
+linn for Dashbord pdf: https://github.com/Chetan838571/Customer-Payment-Dashboard-/blob/main/PowerBi%20Dashboard.pdf.pdf
+
 📌 About Me
 I’m a B.Com graduate with 1 year in finance operations, now transitioning into Data Analytics.  
 This project reflects my ability to combine finance domain expertise with analytics tools to deliver business‑ready insights.
