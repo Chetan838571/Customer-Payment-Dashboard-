@@ -1,4 +1,4 @@
-Customer Payment Performance Dashboard
+⁸Customer Payment Performance Dashboard
 
 📊 A Power BI dashboard designed to analyze Accounts Receivable data and generate actionable insights for finance teams.
 
@@ -43,7 +43,8 @@ Finance & Data Analytics | Data Cleaning | Business Insights | Actionable Answer
 
 link for Dashbord pdf: https://github.com/Chetan838571/Customer-Payment-Dashboard-/blob/main/PowerBi%20Dashboard.pdf.pdf
 (Note: If the preview doesn’t load, please download the file to view the dashboard.
-📌 About Me
+
+About Me 😊
 I’m a B.Com graduate with now 9 months in finance operations at Capgemini. now transitioning into Data Analytics.  
 This project reflects my ability to combine finance domain expertise with analytics tools to deliver business‑ready insights.
 
